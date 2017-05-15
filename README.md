@@ -10,4 +10,4 @@ I used the Jekyll framework that allows you to easily make an attractive, low-ma
 
 ## Credits
 
-I used the particle theme that is licensed with MIT open source that was created by github user [nrandecker](https://github.com/nrandecker/)
+I used the particle theme that is licensed with MIT open source that was created by Github user [nrandecker](https://github.com/nrandecker/)
