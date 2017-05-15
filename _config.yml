@@ -6,15 +6,14 @@ description: A website that seeks to make me seems hireable, hopefully.
 
 # User settings
 username: Andrew Chen
-user_description: Skilled at Java Development, and web development.
+user_description: Young memer at heart
+user_skills:  Skilled at Java Development, and web development.
 user_title: Software Developer
 email: andrew.chen923@gmail.com
-twitter_username: lorem_ipsum
 github_username: xChenny 
-gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
-  id: ""
+    id: "UA-99120164-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
