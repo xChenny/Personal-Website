@@ -16,4 +16,4 @@ github_username: xChenny
 google-analytics:
     id: "UA-99120164-1"
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ['vendor', 'package.json', 'src' , 'node_modules']
